@@ -2,7 +2,7 @@
 This is the MATLAB code for rigid image registration using normalized cross-correlation (NCC) and Robust PaTch based cOrrelation Ratio (RaPTOR).
 The data for this code can be downloaded at https://zenodo.org/record/4813508
 
-![alt text](https://github.com/nimamasoumi/CT-US-Registration/blob/main/CTpre.jpg?raw=true)
+![alt text](https://github.com/nimamasoumi/CT-US-Registration/blob/main/CTpre.png?raw=true)
 
 If you use the data or the code, don't forget to cite the following paper:
 
